@@ -1,0 +1,2 @@
+so watched this insane video: https://youtu.be/qIG1ZT3-a_A?si=qxtvdAxPha751LEn
+it basically explains how the best athletes in the world are better because of their eyes. at the top level, it is the eyes that make a difference. pros were found to have slightly longer fixations on things compared to the average person. though it still isnt known why but what we know is that it happens.
