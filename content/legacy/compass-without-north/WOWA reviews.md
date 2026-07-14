@@ -1,4 +1,0 @@
-- ok so every game needs to be described as a world and referred to as a world
-- The price of the game needs to be referred to as fare prices or transportation costs of the equivalent
-- all of them need to be signed -wo.wa. and with your feelins etc after
-- describe them more like experiences than mechanics and pros and cons
