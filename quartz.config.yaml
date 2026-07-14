@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: iitai-dev.github.io/boscia-rootvault
+  baseUrl: bosciarootvault.com
   ignorePatterns:
     - private
     - templates
