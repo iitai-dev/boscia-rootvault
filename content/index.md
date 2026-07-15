@@ -2,20 +2,18 @@
 title: Boscia Rootvault
 ---
 
-# Boscia Rootvault
+# **Boscia Rootvault**
 
-*Named after the Shepherd's Tree (Boscia albitrunca) - roots that reach 68 meters underground, deeper than any other known plant. Knowledge that runs deep.*
+Welcome, human.
 
-Welcome to my personal knowledge vault. This is where I write about everything I learn, connect ideas across domains, and publish the patterns I find.
+This is my personally curated, handwritten, pure, peak, cinema-level knowledge base. I am too peak — and too worried — that this world does not produce enough capable people to compete with. In my attempt to make the world a less dumb place, I have decided to give away my knowledge, so that one may come to fight me, or join me, in this quest to take over the world. MUAHAHAHAHAHA.
 
-This is a living digital garden. Some notes are seedlings - rough, unfinished thoughts. Others are evergreen - ideas I've refined over time and stand behind. Explore freely.
+This is the Boscia Rootvault — a collection of knowledge, written by the future world dictator/dominator, iitai. If you too want to be peak, absorb the mind of the genius that is I.
+
+MUAHAHAHAHAHA.
+
+
 
 ## Starting points
 
 *Links will be added as notes are written.*
-
-## About
-
-Built with [Obsidian](https://obsidian.md) and [Quartz](https://quartz.jzhao.xyz). Published on GitHub Pages. All prose is hand-written. Structural metadata is AI-assisted.
-
-The source is open: [GitHub](https://github.com/iitai-dev/boscia-rootvault)
