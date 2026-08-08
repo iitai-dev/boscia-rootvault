@@ -1,7 +1,5 @@
 
-```
-i wrote this like a while ago and have been manually sharin it with people, but now that i have this place im dumpin the original paper i wrote without any changes! if u wanna discuss or have some ideas on improving this and shi, hit me up gng! enjoi!
-```
+> i wrote this like a while ago and have been manually sharin it with people, but now that i have this place im dumpin the original paper i wrote without any changes! if u wanna discuss or have some ideas on improving this and shi, hit me up gng! enjoi!
 
 
 
